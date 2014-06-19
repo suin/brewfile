@@ -37,6 +37,7 @@ pip install httpie
 
 cask install alfred
 cask install atom
+cask install bartender
 cask install bitcasa
 cask install colors
 cask install coteditor
