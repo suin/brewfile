@@ -4,12 +4,10 @@ tap phinze/homebrew-cask
 
 install ansible
 install bash-completion
-install boot2docker
 install brew-cask
 install brew-gem
 install brew-pip
 install curl
-install docker
 install git
 install hub
 install jq
@@ -39,6 +37,7 @@ cask install alfred
 cask install atom
 cask install bartender
 cask install bitcasa
+cask install boot2docker
 cask install colors
 cask install coteditor
 cask install dash
