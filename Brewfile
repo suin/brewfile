@@ -9,6 +9,7 @@ install brew-gem
 install brew-pip
 install curl
 install git
+install giter8
 install hub
 install jq
 install jsonpp
