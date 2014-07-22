@@ -51,6 +51,7 @@ cask install google-chrome
 cask install google-japanese-ime
 cask install intellij-idea-ce
 cask install iterm2
+cask install istat-menus
 cask install kaleidoscope
 cask install knock
 cask install kobito
