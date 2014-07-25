@@ -68,6 +68,5 @@ cask install skype
 cask install tunnelblick
 cask install vagrant
 cask install virtualbox
-cask install vmware-fusion
 
 cask alfred link
