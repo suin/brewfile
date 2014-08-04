@@ -33,6 +33,7 @@ install zsh-completions
 gem tmuxinator
 
 pip install httpie
+pip install exrex
 
 cask install alfred
 cask install atom
