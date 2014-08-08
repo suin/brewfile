@@ -1,6 +1,7 @@
 tap homebrew/binary
 tap homebrew/versions
 tap phinze/homebrew-cask
+tap suin/suin
 
 install ansible
 install bash-completion
@@ -11,8 +12,10 @@ install curl
 install git
 install giter8
 install hub
+install iterm2-cli
 install jq
 install jsonpp
+install kobito-cli
 install nmap
 install npm
 install packer
