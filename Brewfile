@@ -33,6 +33,9 @@ install wget
 install zsh
 install zsh-completions
 
+tap peco/peco
+install peco
+
 gem tmuxinator
 
 pip install httpie
