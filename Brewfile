@@ -75,5 +75,6 @@ cask install skype
 cask install tunnelblick
 cask install vagrant
 cask install virtualbox
+cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook suspicious-package
 
 cask alfred link
