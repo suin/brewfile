@@ -65,6 +65,7 @@ cask install kobito
 cask install licecap
 cask install little-snitch
 cask install macvim
+cask install macwinzipper
 cask install minecraft
 cask install mou
 cask install openoffice
