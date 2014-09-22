@@ -6,7 +6,6 @@ tap suin/suin
 install ansible
 install bash-completion
 install brew-cask
-install brew-gem
 install brew-pip
 install curl
 install git
@@ -35,8 +34,6 @@ install zsh-completions
 
 tap peco/peco
 install peco
-
-gem tmuxinator
 
 pip install httpie
 pip install exrex
@@ -76,6 +73,7 @@ cask install skype
 cask install tunnelblick
 cask install vagrant
 cask install virtualbox
+cask install vmware-fusion
 cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql webp-quicklook
 
 cask alfred link
