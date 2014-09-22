@@ -11,6 +11,7 @@ install curl
 install git
 install giter8
 install hub
+install hugo
 install iterm2-cli
 install jq
 install jsonpp
