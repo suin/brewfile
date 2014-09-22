@@ -9,6 +9,7 @@ install brew-cask
 install brew-pip
 install curl
 install git
+install git-forgot
 install giter8
 install hub
 install hugo
