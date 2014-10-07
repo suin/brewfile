@@ -49,7 +49,6 @@ cask install colors
 cask install coteditor
 cask install dash
 cask install dropbox
-cask install firefox
 cask install flash-player
 cask install fluid
 cask install github
