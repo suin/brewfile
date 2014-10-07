@@ -71,6 +71,7 @@ cask install phpstorm
 cask install scala-ide
 cask install sequel-pro
 cask install skype
+cask install teamviewer
 cask install tunnelblick
 cask install vagrant
 cask install virtualbox
