@@ -59,7 +59,6 @@ cask install iterm2
 cask install istat-menus
 cask install kaleidoscope
 cask install knock
-cask install kobito
 cask install licecap
 cask install little-snitch
 cask install macdown
