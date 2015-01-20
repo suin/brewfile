@@ -17,6 +17,7 @@ install iterm2-cli
 install jq
 install jsonpp
 install kobito-cli
+install mercurial
 install nmap
 install npm
 install packer
