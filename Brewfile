@@ -24,6 +24,7 @@ install packer
 install python
 install reattach-to-user-namespace
 install scala
+install stone
 install terminal-notifier
 install the_silver_searcher
 install tig
