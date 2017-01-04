@@ -33,7 +33,6 @@ formula=(
 	yarn
 	zplug
 	zsh
-	zsh-completions
 )
 
 brew tap "${taps[@]}" && brew install "${formula[@]}"
