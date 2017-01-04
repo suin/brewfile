@@ -4,6 +4,7 @@ brew tap \
 	codekitchen/dinghy
 brew install \
 	ag \
+	coreutils \
 	curl \
 	dinghy \
 	docker \
@@ -24,6 +25,7 @@ brew install \
 	vimpager \
 	wget \
 	yarn \
+	zplug \
 	zsh \
-	zsh-completions 
+	zsh-completions
 
